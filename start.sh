@@ -2,9 +2,7 @@
 
 source env/bin/activate
 
-python manage.py runserver
-
 # Run functional test
-# python functional_tests.py
+# python3 functional_tests.py
 # Run unit test
-# python manage.py test
+# TBD
